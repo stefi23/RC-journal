@@ -33,6 +33,3 @@ These are my notes from the [Scrimba UI Design Fundamentals Course](https://scri
 - **Typography** choose max 2 fonts, rather than adding more play with size, colors, weight, and other properties.
 - **Visual Hierarchy** make the imporant elements stand out, h1 should be bigger, CTA should be visible especially if there is only one, maybe add a brighter color
 - **Color** use it to elicit emotion; avoid using color that don't compliment each other; use slight variances of the same hue/color in terms of lightness or darkness to reinforce different blocks
--
-
-> Written with [StackEdit](https://stackedit.io/).
