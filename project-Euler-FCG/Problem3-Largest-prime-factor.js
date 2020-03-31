@@ -40,7 +40,6 @@ largestPrimeFactor(5);
 
 function largestPrimeFactor(number) {
   // Good luck!
-
   let numbers = [];
   let result = 1;
   for (let i = 0; i <= number; i++) {
@@ -71,4 +70,32 @@ function isPrime(value) {
 }
 largestPrimeFactor(13195);
 
-//Version 3
+//Version 3 - made it work and it's faster now :)
+
+function largestPrimeFactor(number) {
+  // Good luck!
+  let numbers = [];
+  let result = 1;
+  for (let i = 0; i <= number; i++) {
+    if (isPrime(i)) {
+      if (number % i === 0) {
+        numbers.push(i);
+        let result = numbers.reduce((accumulator, currentValue) => {
+          return accumulator * currentValue;
+        }, 1);
+        if (result == number) {
+          return numbers[numbers.length - 1];
+        }
+      }
+    }
+  }
+}
+function isPrime(value) {
+  for (var i = 2; i < value; i++) {
+    if (value % i === 0) {
+      return false;
+    }
+  }
+  return value > 1;
+}
+largestPrimeFactor(3);
