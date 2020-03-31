@@ -29,14 +29,14 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 - Attended Pair Programming Workshop
 - Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign?utm_source=newsletter&utm_medium=email&utm_campaign=gdesign_mainlist_launch) course on Scrimba
 
-**Challenges**
+**Challenges 🐘**
 
 - Trying to organize my day to make the most out of it
 - Minimize screen time and regularly take walking or stretching breaks
 - Figure out how to navigate the time zone difference
 - Learning how to take notes digitally and organize them
 
-**What I've learned**
+**What I've learned 💡**
 
 - For every challenge start small, first implement the easiest slowest version and then improve it.
 - Becoming more comfortable using the `reduce()` method in Javascript 💃
