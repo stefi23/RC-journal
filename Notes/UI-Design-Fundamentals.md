@@ -10,7 +10,7 @@ These are my notes from the [Scrimba UI Design Fundamentals Course](https://scri
 - [paletton.com](http://paletton.com/#uid=12A0u0kl0msaFw0g0qFqFg0w0aF) - to get different tones of the same color
 - [coolors.co](https://coolors.co/) - gives you 5 colors to play with and you can shuffle them
 - Follow [Steve Schoger](https://twitter.com/steveschoger) on Twitter
-- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [Fast tips from Scrimba's course](https://twitter.com/scrimba/status/1231894259650846725)
 
 ## Personal Hacks
 
@@ -21,6 +21,7 @@ These are my notes from the [Scrimba UI Design Fundamentals Course](https://scri
 - Don't use black for text color instead use a darker gray
 - When adding the date make it a bit smaller in caps (text-transform) with a 0.1em letterspacing
 - padding on a link to make it look better when it has a background color: 0.7em up&down and 2em left&right
+- Fast tips from Scrimba's course: https://twitter.com/scrimba/status/1231894259650846725
 
 ## Notes
 
