@@ -1,6 +1,6 @@
 # RC Journal
 
-Hi! I decided to keep a journal on GitHub to track what I will be working on as well as doing while at the **Recurse Cener **.
+Hi! I decided to keep a journal on GitHub to track what I will be working on as well as doing while at the **Recurse Center **.
 
 ## Week 1
 
@@ -8,13 +8,13 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 
 - Do 1/2 challenge from Project Euler on FreeCodeCamp and more small ones from other websites
 - Read about Ghost, Gatsby, Eleventy and other static Websites and figure out what you will use to create a personal blog
-- Start working on personal blog
+- Start working on a personal blog
 - Create a Rock, Paper, Scissors game in React ( this [tutorial](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH) could help)
 - Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign?utm_source=newsletter&utm_medium=email&utm_campaign=gdesign_mainlist_launch) course on Scrimba
 - Try to pair with someone
 - Be social, reach out to others, participate in coffee chats ☕
 
-**Meetings I want to attent 🗽**
+**Meetings I want to attend 🗽**
 
 - Pair Programming Workshop
 - Feelings Check-In
@@ -32,11 +32,12 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 **Challenges**
 
 - Trying to organize my day to make the most out of it
-- Minimize screen time and regularly take walking or streching breaks
-- Figure out how to navigage the time zone difference
+- Minimize screen time and regularly take walking or stretching breaks
+- Figure out how to navigate the time zone difference
+- Learning how to take notes digitally and organize them
 
 **What I've learned**
 
-- For every challegenge start small, first implement the easiest slowest version and than improve it.
+- For every challenge start small, first implement the easiest slowest version and then improve it.
 - Becoming more comfortable using the `reduce()` method in Javascript 💃
-- Discovered [StackEdit](https://stackedit.io/) with which I wrote this md file and it's pretty cool as I can add 🙈 emojis
+- Discovered [StackEdit](https://stackedit.io/) with which I wrote this MD file and it's pretty cool as I can add 🙈 emojis
