@@ -22,8 +22,10 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 
 **Achieved**
 
-- Completed: [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])
+- Completed: [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor]).
+  [My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js)
   Challenges
+- Created this [repository](https://github.com/stefi23/RC-journal/blob/master/README.md) to keep track of my journey at RC
 
 **What I've learned**
 For every challegenge start small, first implement the easiest slowest version and than improve it.
