@@ -5,12 +5,15 @@ These are my notes from the [Scrimba UI Design Fundamentals Course](https://scri
 # Resources
 
 - [Scrimba UI Design Fundamentals Course](https://scrimba.com/g/gdesign)
+- [Summary](https://dev.to/perborgen/learn-basic-ui-design-in-5-minutes-1mlk) of the UI Design Course
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [colorsafe.co](http://colorsafe.co/) - great as it gives also contrast ration
 - [paletton.com](http://paletton.com/#uid=12A0u0kl0msaFw0g0qFqFg0w0aF) - to get different tones of the same color
 - [coolors.co](https://coolors.co/) - gives you 5 colors to play with and you can shuffle them
 - Follow [Steve Schoger](https://twitter.com/steveschoger) on Twitter
 - [Fast tips from Scrimba's course](https://twitter.com/scrimba/status/1231894259650846725)
+- [UX Goodies on Instagram](https://www.instagram.com/uxgoodies/)
+- [Colors Cafe on Instagram](https://www.instagram.com/colours.cafe/)
 
 ## Personal Hacks
 
