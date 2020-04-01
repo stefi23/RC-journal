@@ -23,14 +23,12 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 
   **What I've done 👯🏿‍♀️**
 
-- Completed: [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])
-  ✨[My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js)
+- Completed: - [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])
+  ✨[My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js) - [Project Euler: Problem 3 - Largest Palindrome Product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product)
+  ✨Paired with Jana on this one. [Our solution ](project-Euler-FCG/Problem4-largestPalindromeProduct.js)
 - Created this [repository](https://github.com/stefi23/RC-journal/blob/master/README.md) to keep track of my journey at RC
-- Attended Pair Programming Workshop where I worked on the
+- Attended Pair Programming Workshop
 - Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign?utm_source=newsletter&utm_medium=email&utm_campaign=gdesign_mainlist_launch) course on Scrimba
-- Participated at non-technical talks which was super intresting and insightful.
-  I've found out about an amazing place in Japan that I want to go to - Yakushima Island, and I think it's time to seriously think about trying Backcountry Skiing and journal more. Shean talk made me consider a new system of journaling.
-- Had a lovely coffee chat with James where I shared my fascination about Time Zones and he shared with me a converasation going on in Zulip on the topic. I'm thinking talk about it at the non-technical talks next week.
 
 **Challenges 🐘**
 
