@@ -1,8 +1,4 @@
-# RC Journal
-
-Hi! I decided to keep a journal on GitHub to track what I will be working on as well as doing while at the **Recurse Center **.
-
-## Week 1
+# Week 1
 
 **Planned 🤸**
 
@@ -30,8 +26,10 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 - Attended Pair Programming Workshop
 - Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign?utm_source=newsletter&utm_medium=email&utm_campaign=gdesign_mainlist_launch) course on Scrimba
 - Created a Rock, Paper, Scissors game in React (to be deployed) [Code on Github](https://github.com/stefi23/Schere-Stein-Papier)
-- Did some more katas on [Codewars](https://www.codewars.com/users/stefi23), a couple even on Python
+- Did some more katas on [Codewars](https://www.codewars.com/users/stefi23) ([repository with solutions](Codewars)), a couple even on Python
+
 - After checking the options for a static websites I decided to go for Gatsby as it works
+- Let fear show up but not listen to it
 
 **Challenges 🐘**
 
@@ -39,7 +37,6 @@ Hi! I decided to keep a journal on GitHub to track what I will be working on as 
 - Minimize screen time and regularly take walking or stretching breaks
 - Figure out how to navigate the time zone difference
 - Learning how to take notes digitally and organize them
-- Let fear show up but not listen to it
 
 **What I've learned 💡**
 
