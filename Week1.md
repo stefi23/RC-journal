@@ -17,7 +17,7 @@
 - Maybe Algorithms Study Group
 - Maybe Creative Coding Group
 
-  **What I've done 👯🏿‍♀️**
+**What I've done 👯🏿‍♀️**
 
 - Completed: - [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])
   ✨[My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js) - [Project Euler: Problem 3 - Largest Palindrome Product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product)
