@@ -28,7 +28,8 @@
 - Created a Rock, Paper, Scissors game in React (to be deployed) [Code on Github](https://github.com/stefi23/Schere-Stein-Papier)
 - Did some more katas on [Codewars](https://www.codewars.com/users/stefi23) ([repository with solutions](Codewars)), a couple even on Python
 
-- After checking the options for a static websites I decided to go for Gatsby as it works
+- After checking the options for a static websites I decided to go for [Gatsby](https://www.gatsbyjs.org/) by choosing Gatsby I will possibly improve my JavaScript (or TypeScript even) and React skills.
+
 - Let fear show up but not listen to it
 - Completed the Week 1 challenge on the [Leet Code 30 Days Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
   [My Solutions](Leet-Code-Challange)
