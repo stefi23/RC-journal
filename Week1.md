@@ -30,6 +30,8 @@
 
 - After checking the options for a static websites I decided to go for Gatsby as it works
 - Let fear show up but not listen to it
+- Completed the Week 1 challenge on the [Leet Code 30 Days Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+  [My Solutions](Leet-Code-Challange)
 
 **Challenges 🐘**
 
@@ -49,3 +51,22 @@
 - Learn a lot of intresting facts about time zones and soon I will prepare a presentation sharing all of these
 - Setting goals at the beginning of the week helps me stay focused
 - Journaling and keeping track of what I am working on makes me be more aware of my progress
+
+**Notes/Links 🗒️**
+
+- [Max Sub-Array Sum (Javascript)](https://medium.com/@IndiraWilliams/max-sub-array-sum-javascript-f1303f979344)
+- Paired with [Jimmy Tang (he)](https://github.com/talyian) and found it quite useful to use `start` and `end` when doing a nested loop:
+
+```
+function getSubarrays(arr) {
+  for(var start = 0; start < arr.length; start++) {
+    for(var end = 0; end < arr.length; end++) {
+      console.log(start,end)
+    }
+  }
+}
+getSubarrays([1,2,3])
+```
+
+- Dear developers part of underrepresented groups, little future developers who look or act or dress or think as you need you to blog more 🙈
+  Please, blog and talk at events and meetups. We need you 🙏 [Good article](http://garann.com/dev/2013/how-to-blog-about-code-and-give-zero-fucks/)
