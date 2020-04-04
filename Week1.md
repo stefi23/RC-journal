@@ -19,20 +19,26 @@
 
 **What I've done 👯🏿‍♀️**
 
-- Completed: - [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])
-  ✨[My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js) - [Project Euler: Problem 3 - Largest Palindrome Product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product)
-  ✨Paired with Jana on this one. [Our solution ](project-Euler-FCG/Problem4-largestPalindromeProduct.js)
+- Completed:
+  - [Project Euler: Problem 3 - Largest Prime-Factor](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-3-largest-prime-factor])  
+    ✨[My solution ](project-Euler-FCG/Problem3-Largest-prime-factor.js)
+  - [Project Euler: Problem 3 - Largest Palindrome Product](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-4-largest-palindrome-product)
+    ✨Paired with Jana on this one.  
+    👯🏿‍♀️[Our solution ](project-Euler-FCG/Problem4-largestPalindromeProduct.js)
 - Created this [repository](https://github.com/stefi23/RC-journal/blob/master/README.md) to keep track of my journey at RC
-- Attended Pair Programming Workshop
-- Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign?utm_source=newsletter&utm_medium=email&utm_campaign=gdesign_mainlist_launch) course on Scrimba
-- Created a Rock, Paper, Scissors game in React (to be deployed) [Code on Github](https://github.com/stefi23/Schere-Stein-Papier)
+- Attended Pair Programming Workshop > [Notes](Notes/Pair-Programming-Workshop.md)
+- Complete the UI Design Fundamentals [UI Design Fundamentals](https://scrimba.com/g/gdesign) course on Scrimba > [Notes](Notes/UI-Design-Fundamentals.md)
+- Created a Rock, Paper, Scissors game in React
+  - [Code on Github](https://github.com/stefi23/Schere-Stein-Papier)
+  - [Live](https://stefi.codes/Schere-Stein-Papier/)
+  - Design: pending
+  - I am proud I did it without following a review.
 - Did some more katas on [Codewars](https://www.codewars.com/users/stefi23) ([repository with solutions](Codewars)), a couple even on Python
 
 - After checking the options for a static websites I decided to go for [Gatsby](https://www.gatsbyjs.org/) by choosing Gatsby I will possibly improve my JavaScript (or TypeScript even) and React skills.
 
 - Let fear show up but not listen to it
-- Completed the Week 1 challenge on the [Leet Code 30 Days Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
-  [My Solutions](Leet-Code-Challange)
+- Completed the Week 1 on the [Leet Code 30 Days Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/) > [My Solutions](Leet-Code-Challange)
 
 **Challenges 🐘**
 
