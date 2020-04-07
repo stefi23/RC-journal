@@ -33,8 +33,27 @@
 
 **What I've learned 💡**
 
-> Today I've learned that the **spread operator in JS** `[...variable]` allows an iterable such as an **array** but also **a string** to copied into an array.
+- `Spread operator [...variable]` vs `split()`
+
+  > Today I've learned that the **spread operator in JS** `[...variable]` allows an iterable such as an **array** but also **a string** to copied into an array.
+  >
+  > Thing you cannot do with the `split()` method as this method is used to split a **string** only into an **array** of substrings, and returns the new **array**I hope I got it right.I've found this useful while doing a kata where the argument received was either a string or an array and I needed it to be an array.
+  >
+  > Also there is the `Array.isArray(variable) - return true or false` to check if a variable is an array.
+
+- Object.values()
+
+> Object.values() returns an array whose elements are the enumerable property values found on the object. The ordering of the properties is the same as that given by looping over the property values of the object manually.
 >
-> Thing you cannot do with the `split()` method as this method is used to split a **string** only into an **array** of substrings, and returns the new **array**I hope I got it right.I've found this useful while doing a kata where the argument received was either a string or an array and I needed it to be an array.
->
-> Also there is the `Array.isArray(variable) - return true or false` to check if a variable is an array.
+> The Object.values() method returns an array of a given object's own enumerable property values, in the same order as that provided by a for...in loop. (The only difference is that a for...in loop enumerates properties in the prototype chain as well.)
+
+```
+const object1 = {
+      a: 'somestring',
+      b: 42,
+      c: false
+    };
+
+    console.log(Object.values(object1));
+    // expected output: Array ["somestring", 42, false]
+```
