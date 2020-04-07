@@ -29,7 +29,9 @@
 
 **Challenges 🐘**
 
--
+- Not letting the impostar syndrom take over. I've felt at the beginning of this week as if I don't know anything and will never get it.
+- Setting up Python and virtual environments
+- Some more challenging coding challenges take made me question my abilities
 
 **What I've learned 💡**
 
