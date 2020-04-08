@@ -2,6 +2,7 @@
 https://www.codewars.com/kata/525d50d2037b7acd6e000534/solutions/javascript
 
 Great kata to practice Javascript methodes like reduce, map, filter.
+Math.pow could be used for cube() and square()
 
 This kata is designed to test your ability to extend the functionality of built-in classes. In this case, we want you to extend the built-in Array class with the following methods: square(), cube(), average(), sum(), even() and odd().
 

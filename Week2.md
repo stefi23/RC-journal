@@ -1,10 +1,10 @@
-# Week 1
+# Week 2
 
 **Planned 🤸**
 
 - Do 1/2 challenge from Project Euler on FreeCodeCamp and more small ones from other websites
 - Create and deploy a blog with Gatsby.JS
-- Improve desing of Rock, Paper, Scissors game in React - Add colors when hovering over button like here ( [example](https://codepen.io/kevinlo51/pen/YxmWPx); - Maybe emojis in the buttons ; - What about having a “fake delay”, either a counter after you press the button (3, 2, 1) or a randomiser of the emoji, then you can practice Timers in React
+- Improve design of Rock, Paper, Scissors game in React - Add colors when hovering over button like here ( [example](https://codepen.io/kevinlo51/pen/YxmWPx); - Maybe emojis in the buttons ; - What about having a “fake delay”, either a counter after you press the button (3, 2, 1) or a randomizer of the emoji, then you can practice Timers in React
 - Complete the [The Working Developer's Guide To Algorithms](https://scrimba.com/g/galgorithmsguide) course on Scrimba
 - Work on Happy Numbers
 - Complete Leet Code Challenge Week 2
@@ -25,7 +25,14 @@
 **What I've done 👯🏿‍♀️**
 
 - Completed Katas:
+
   - [Unique Numbers](https://www.codewars.com/kata/54e6533c92449cc251001667)
+  - [Array Helpers](https://www.codewars.com/kata/525d50d2037b7acd6e000534/solutions/javascript)
+  - [Build a pile of Cubes](https://www.codewars.com/kata/5592e3bd57b64d00f3000047/solutions/javascript)
+
+- Leet Code Challenges:
+  - [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)
+- Improved design on [Rock, Scissors, Paper Game](https://stefi.codes/Schere-Stein-Papier/)
 
 **Challenges 🐘**
 
@@ -79,3 +86,9 @@ for (const property in object) {
 // "b: 2"
 // "c: 3"
 ```
+
+> The more you [code], the easier it is to code.
+> The easier it is to [code], the more you code  
+> [Source](https://twitter.com/balajis/status/1202809697818030080)
+
+> The more you repeat an activity the more the structure of your brain changes to become efficient at that activity. - Atomic Habits
