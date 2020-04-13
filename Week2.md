@@ -34,11 +34,16 @@
   - [Group Anagrams](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)
 - Improved design on [Rock, Scissors, Paper Game](https://stefi.codes/Schere-Stein-Papier/)
 
+- Attended the Algorithms Workshop and learned about Hashing
+
+- Setup my blog with Gatsby and Markdown
+
 **Challenges 🐘**
 
 - Not letting the impostar syndrom take over. I've felt at the beginning of this week as if I don't know anything and will never get it.
 - Setting up Python and virtual environments
 - Some more challenging coding challenges take made me question my abilities
+- Figuring out how Gatsby works and pagination
 
 **What I've learned 💡**
 
@@ -92,3 +97,5 @@ for (const property in object) {
 > [Source](https://twitter.com/balajis/status/1202809697818030080)
 
 > The more you repeat an activity the more the structure of your brain changes to become efficient at that activity. - Atomic Habits
+
+Gatsby is a really cool tool for creating static websites.
