@@ -38,6 +38,10 @@
 
 - Setup my blog with Gatsby and Markdown
 
+- Wrote a draft of the Time Zones presentation
+
+- Worked on Happy Numbers
+
 **Challenges 🐘**
 
 - Not letting the impostar syndrom take over. I've felt at the beginning of this week as if I don't know anything and will never get it.
