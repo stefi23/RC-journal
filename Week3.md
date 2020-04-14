@@ -2,14 +2,14 @@
 
 **Planned 🤸**
 
-- 2-3 challenge from Leet Code and additonallly some from Codewars or Project Euler on FreeCodeCamp
-- Deploy a blog with Gatsby.JS
-- Add pagination to blog and sidebar components
-- Add fake delay to [https://stefi.codes/Schere-Stein-Papier/](https://stefi.codes/Schere-Stein-Papier/)
-- Rewatch lectures from the boocamp about React
-- Work on Happy Numbers
-- Give non- tech presentation
-- Read 4 chapters from [# Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [ ] 2-3 challenge from Leet Code and additonallly some from Codewars or Project Euler on FreeCodeCamp
+- [ ] Deploy a blog with Gatsby.JS
+- [ ] Add pagination to blog and sidebar components
+- [ ] Add fake delay to [https://stefi.codes/Schere-Stein-Papier/](https://stefi.codes/Schere-Stein-Papier/)
+- [ ] Rewatch lectures from the boocamp about React
+- [x] Work on Happy Numbers
+- [x] Give non- tech presentation
+- 1/4 Read 4 chapters from [# Introduction to Algorithms, 3rd Edition (The MIT Press)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 - Take an additional Gatsby online tutorial to understand things better
 
 **Tentative**
@@ -26,8 +26,8 @@
 - [ ] Algorithms Study Group
 - [ ] Maybe attend Intro to Mathematical Thinking
 - [ ] Maybe Networking
-- [ ] Coffee chat with [**Tobin** Yehle](https://www.recurse.com/directory/2604-tobin-yehle)
-- [ ] Pairing with [**Rebecca** Keith](https://www.recurse.com/directory/3900-rebecca-keith)
+- [x] Coffee chat with [**Tobin** Yehle](https://www.recurse.com/directory/2604-tobin-yehle)
+- [x] Pairing with [**Rebecca** Keith](https://www.recurse.com/directory/3900-rebecca-keith)
 - [ ] Careeer Discussion with [**Sydney** Lefevre](https://www.recurse.com/directory/2820-sydney-lefevre)
 
 **What I've done 👯🏿‍♀️**
@@ -42,3 +42,6 @@
 **Challenges 🐘**
 
 **What I've learned 💡**
+
+- I've learned working with branches in Github. Basically for every feature or change in my projects I add a branch and merge it only afterward. I feel like this is good practice.
+- About Time Zones while giving the non-tech talk about time zones
