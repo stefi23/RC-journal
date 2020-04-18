@@ -43,6 +43,8 @@
 
 - Watched 1st lecture from [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
 
+- Read 3 chapters from [Grokking Algorithms: An Illustrated Guide for Programmers and Other](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+
 **Challenges 🐘**
 
 **What I've learned 💡**
