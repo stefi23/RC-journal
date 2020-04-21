@@ -41,7 +41,7 @@
   - Endpoint that receives an address and validate if its valid. This address must be in an object with the properties street, streetNumber, town, postalCode and country. (HereMaps API)
   - Endpoint that receives an address, validate it and check the weather for the lat/lon of that address. (HereMaps API and OpenWeather API)
 
-- Watched 1st lecture from [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/)
+- Completed the course: [A Practical Guide to Algorithms with JavaScript from Frontend Masters](https://frontendmasters.com/courses/practical-algorithms/)
 
 - Read 3 chapters from [Grokking Algorithms: An Illustrated Guide for Programmers and Other](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
 
